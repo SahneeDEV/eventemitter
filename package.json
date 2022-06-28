@@ -23,7 +23,7 @@
     "assume": "2.3.0",
     "mocha": "8.3.2",
     "nyc": "15.1.0",
-    "sauce-browsers": "2.0.0",
+    "sauce-browsers": "3.0.0",
     "typescript": "4.5.4"
   },
   "dependencies": {}
